@@ -53,6 +53,7 @@ I am a Systems Engineering student in my seventh semester (three years and a hal
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 [![](https://github-readme-stats.vercel.app/api?username=Santiago1470&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Santiago1470)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Santiago1470&theme=material-palenight)](https://github.com/Santiago1470)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago1470&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <br />
 
