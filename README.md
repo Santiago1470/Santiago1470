@@ -45,7 +45,7 @@ I am a Systems Engineering student in my seventh semester (three years and a hal
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white">
 </span>
 
-## Check out my Social Media
+## 🤝 Check out my Social Media
 <a href= "https://www.linkedin.com/in/santiago-torres-b29138187/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
