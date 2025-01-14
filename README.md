@@ -49,6 +49,9 @@ I am a Systems Engineering student in my seventh semester (three years and a hal
 <a href= "https://www.linkedin.com/in/santiago-torres-b29138187/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+<a href= "mailto:st147086@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 [![](https://github-readme-stats.vercel.app/api?username=Santiago1470&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Santiago1470)
