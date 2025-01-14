@@ -2,7 +2,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
-<img align="right" width = 220px height = 170px alt="Github" src="images/progamming.gif" />
+<img align="right" width = 220px height = 170px alt="Github" src="images/programming.gif" />
 
 I am a Systems Engineering student in my seventh semester (three years and a half). I am passionate about software development and cybersecurity. I specialize in back-end development, but I'm good at front-end development. I love to learn and build something new, productive, innovative and creative. I like to solve programming exercises, participate in programming marathons or contribute to open source projects.
 <br />
