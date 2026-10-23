@@ -4,7 +4,7 @@
 
 <img align="right" width = 250px height = 200px alt="Github" src="images/programming.gif" />
 
-I am a Systems Engineering. I am passionate about software development and cybersecurity. I specialize in back-end development, but I'm good at front-end development. I love to learn and build something new, productive, innovative and creative. I like to solve programming exercises, participate in programming marathons or contribute to open source projects.
+I am a Systems Engineer. I am passionate about software development and cybersecurity. I specialize in back-end development, but I'm good at front-end development. I love to learn and build something new, productive, innovative and creative. I like to solve programming exercises, participate in programming marathons or contribute to open source projects.
 - 📫 Reach out to me at: <a href="st147086@gmail.com">st147086@gmail.com</a>
 <br />
 <img src="https://komarev.com/ghpvc/?username=Santiago1470" alt="https://github.com/Santiago1470" />
